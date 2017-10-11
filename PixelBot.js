@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.66
 // @description  try to take over the world!
-// @author       Flyink13, DarkKeks
+// @author       Flyink13, DarkKeks, Uporaba
 // @match        https://pixel.vkforms.ru/*
 // @downloadURL  https://rawgit.com/Uporaba1/Lentach2/master/PixelBot.js
 // @grant        none
@@ -17,7 +17,7 @@ function PixelBot() {
 
     PixelBot.url = {
         script: 'https://rawgit.com/Uporaba1/Lentach2/master/PixelBot.js',
-        image: 'https://rawgit.com/Uporaba1/Lentach2/master/TJ.png'
+        image: 'https://i.imgur.com/OsufZq9.png'
     };
 
     PixelBot.state = document.createElement("div");
