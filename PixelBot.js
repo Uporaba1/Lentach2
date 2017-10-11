@@ -5,8 +5,7 @@
 // @description  try to take over the world!
 // @author       Flyink13, DarkKeks
 // @match        https://pixel.vkforms.ru/*
-// @downloadURL  http://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js
-// @updateURL    http://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js
+// @downloadURL  https://rawgit.com/Uporaba1/Lentach2/master/PixelBot.js
 // @grant        none
 // ==/UserScript==
 
@@ -17,7 +16,7 @@ function PixelBot() {
     PixelBot.tc = "rgb(0, 0, 0)";
 
     PixelBot.url = {
-        script: 'http://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js',
+        script: 'https://rawgit.com/Uporaba1/Lentach2/master/PixelBot.js',
         image: 'https://rawgit.com/Uporaba1/Lentach2/master/TJ.png'
     };
 
