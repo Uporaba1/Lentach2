@@ -18,7 +18,7 @@ function PixelBot() {
 
     PixelBot.url = {
         script: 'http://rawgit.com/DarkKeks/PixelBot/master/PixelBot.js',
-        image: 'http://rawgit.com/DarkKeks/PixelBot/master/TJ.png'
+        image: 'https://rawgit.com/Uporaba1/Lentach2/master/TJ.png'
     };
 
     PixelBot.state = document.createElement("div");
